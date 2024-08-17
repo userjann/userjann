@@ -1,4 +1,4 @@
- 👋 Hi, I’m Jann Reutegger
+ 👋 Hi, I’m Jann
 
 
 <!---
