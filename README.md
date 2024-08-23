@@ -1,4 +1,4 @@
- # 👋 Hallo ich bin Jann Reutegger
+ ## 👋 Hallo ich bin Jann Reutegger
 
  ### Momentan besuche ich die Informatikmittelschule im 3. Jahr in Wintherthur
 
