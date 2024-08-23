@@ -1,6 +1,6 @@
  # 👋 Hallo ich bin Jann Reutegger
 
- ### Ich bin momentan im 3. Jahr der Informatikmittelschule in Wintherthur
+ ### Momentan besuche ich die Informatikmittelschule im 3. Jahr in Wintherthur
 
  ### Technologien welche ich während meiner Ausbildung an der IMS verwendet habe
  
