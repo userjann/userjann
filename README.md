@@ -18,7 +18,7 @@
 
 Während der Ausbildung habe ich an folgenden Projekten gearbeitet
 
-#### [MinecraftVoidSurvivalOlugin](https://github.com/userjann/MinecraftVoidSurvivalPlugin)
+#### [MinecraftVoidSurvivalPlugin](https://github.com/userjann/MinecraftVoidSurvivalPlugin)
 Dieses Projekt habe ich in meiner Freizeit geschrieben. Es handelt sich um 2 Mincraft Plugins, die dafür gedacht sind in einer Minecraft-Welt ohne Ressourcen zu überleben. Alle Spieler erhalten all 5 Sekunden ein Item aus einer bestimmten Auswahl. Mit diesen Items können die Spieler dann in der Minecraft Welt überleben.
 
 
