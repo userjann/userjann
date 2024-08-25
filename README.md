@@ -18,6 +18,10 @@
 
 Während der Ausbildung habe ich an folgenden Projekten gearbeitet
 
+#### [MinecraftVoidSurvivalOlugin](https://github.com/userjann/MinecraftVoidSurvivalPlugin)
+Dieses Projekt habe ich in meiner Freizeit geschrieben. Es handelt sich um 2 Mincraft Plugins, die dafür gedacht sind in einer Minecraft-Welt ohne Ressourcen zu überleben. Alle Spieler erhalten all 5 Sekunden ein Item aus einer bestimmten Auswahl. Mit diesen Items können die Spieler dann in der Minecraft Welt überleben.
+
+
 #### [Versicherungsrechner](https://github.com/userjann/Versicherungsrechner)
 Die Aufgabenstellung war es ein Versicherungsrechner, welcher eine Prämie berrechnet um einen Gegenstand zu versichern. Das Projekt mussten wir mithilfe von React umsetzen. Ich habe mich für einen Rechner entschieden, welcher einem die Autoversicherungsprämie berrechnet.
 
