@@ -1,4 +1,4 @@
- ## 👋 hi ich bin Jann 
+ ## 👋 Hi ich bin Jann 
 
  ### Momentan besuche ich die Informatikmittelschule im 3. Jahr in Wintherthur
 
